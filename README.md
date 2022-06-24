@@ -30,4 +30,4 @@
 
 
 ### 文件
-会由系统传入用户信息和学生信息，argc和argv校验失败则报错。创建文件database.ext和userinfo.txt，如果使用visual studio，需要提前设置命令行参数，否则会报错。
+会由系统传入用户信息和学生信息，argc和argv校验失败则报错。创建文件database.dat和userinfo.dat，如果使用visual studio，需要提前设置命令行参数，否则会报错。
